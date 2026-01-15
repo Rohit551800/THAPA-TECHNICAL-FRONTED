@@ -4,7 +4,7 @@
 # 🌐 Live Portfolio Project
 
 ### 🔗 Live Demo  
-https://rohitgouriaproject1.netlify.app
+https://comfy-taffy-00d3a3.netlify.app/
 
 ---
 
